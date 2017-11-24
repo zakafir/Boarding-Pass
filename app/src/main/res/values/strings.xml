@@ -24,4 +24,8 @@
     <string name="left_rectangle_description">left rectangle</string>
     <string name="right_rectangle_description">right rectangle</string>
     <string name="divider">divider</string>
+    <string name="barcode_image">barcode image</string>
+    <string name="plane_image">plane image</string>
+    <string name="title_infos">title</string>
+    <string name="content_infos">content infos</string>
 </resources>
