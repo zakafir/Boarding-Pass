@@ -34,7 +34,7 @@ public class FakeDataUtils {
 
         bpi.passengerName = "MR. RANDOM PERSON";
         bpi.flightCode = "UD 777";
-        bpi.originCode = "KECH";
+        bpi.originCode = "KCH";
         bpi.destCode = "DLE";
 
         long now = System.currentTimeMillis();
